@@ -1,0 +1,269 @@
+.bob
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: start; 
+}
+
+.container1
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.bob2
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#h5
+{
+    color: rgb(150, 138, 138);
+    margin-top: 15px;
+}
+
+.background
+{
+    background-color: rgb(27, 27, 27);
+    height: 750px;
+    width: 450px;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.border1 h6
+{
+    color: rgb(238, 231, 231);
+    margin-top: 5px;
+    position: relative;
+    top: 12px;
+    left: 10px;
+    font-weight: bold;
+}
+
+.border1
+{
+    width: 420px;
+    margin-left: 10px;
+    height: 130px;
+    border-radius: 5px;
+    background-color: rgb(44, 43, 43);
+}
+
+.border1 p
+{
+    color: rgb(238, 231, 231);
+    position: relative;
+    top: 12px;
+    left: 10px;
+}
+
+.border1 button
+{
+    border-radius: 70px;
+    position:relative;
+    left: 20px;
+    top: 12px;
+    font-weight: bold;
+    height: 35px;
+}
+
+.border1 button:hover
+{
+    height: 37px;
+}
+
+.border2
+{
+    width: 420px;
+    margin-left: 10px;
+    height: 130px;
+    border-radius: 5px;
+    background-color: rgb(44, 43, 43);
+}
+
+.border2 h6
+{
+    color: rgb(238, 231, 231);
+    margin-top: 15px;
+    position: relative;
+    top: 12px;
+    left: 10px;
+    font-weight: bold;
+}
+
+.border2 p
+{
+    color: rgb(238, 231, 231);
+    position: relative;
+    top: 12px;
+    left: 10px;
+}
+
+.border2 button
+{
+    border-radius: 70px;
+    position:relative;
+    left: 20px;
+    top: 12px;
+    font-weight: bold;
+    height: 35px;
+}
+
+.border2 button:hover
+{
+    height: 37px;
+}
+
+.stuff1
+{
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.stuff1 small
+{
+    color: rgb(117, 117, 117);
+}
+
+.stuff1 a 
+{
+    text-decoration: none;
+}
+
+#cookies 
+{
+    color: rgb(230, 224, 224);
+}
+
+.last button 
+{
+    border-radius: 70px;
+    margin-left: 15px;
+}
+
+.advert
+{
+    border-radius: 15px;
+    height: 90px;
+    
+    margin: 10px;
+    background-color: rgb(44, 43, 43);
+}
+
+.advert p
+{
+    margin-left: 10px;
+    color: white;
+    position: relative;
+    top: 10px;
+}
+
+.advert h5
+{
+    margin-left: 10px;
+    color: white;
+}
+
+.advert button
+{
+    float: right;
+    position: relative;
+    top: 25px;
+    right: 20px;
+    border-radius: 70px;
+}
+
+.realbackground
+{
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.main2
+{
+    background-color: rgb(26, 26, 26);
+    width: 1150px;
+    height: 750px;
+}
+
+.main2 h3
+{
+    color: white;
+}
+
+.container3
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.container3 img
+{
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.container3 p
+{
+    margin-bottom: 2px;
+    margin-top: 3px;
+    color: white;
+}
+
+.secondbackground
+{
+    background-color: black;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+}
+
+.container3 small 
+{
+    
+    color: grey;
+}
+
+.container4
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.container4 small 
+{
+    margin-top: 3px;
+    color: grey;
+}
+
+.container4 img
+{
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.container4 p
+{
+    margin-bottom: 2px;
+    margin-top: 3px;
+    color: white;
+}
